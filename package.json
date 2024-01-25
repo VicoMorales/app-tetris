@@ -17,5 +17,8 @@
     "extends": [
       "standard"
     ]
+  },
+  "dependencies": {
+    
   }
 }
